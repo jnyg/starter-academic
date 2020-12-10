@@ -26,10 +26,10 @@ education:
   - course: PhD in physics
     institution: Rutgers University, USA
     year: 2009
-  - course: Master's program in physics
+  - course: Master's program
     institution: Chiba University, Japan
     year: 2002–2003
-  - course: Bachelor's program in physics
+  - course: Bachelor's program
     institution: Chiba University, Japan
     year: 1999-2002
 
@@ -75,9 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an assistant professor at the [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing, China.  Before coming to China, I lived and worked in US, Japan, Germany, Singapore, Italy and Canada.
-
-
-
-Recently, I think a lot about connections between quantum field theory, string theory and integrable systems.
-
+I'm an assistant professor at the [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing, China.  Before coming to China, I studied and worked in Japan, USA, Germany, Singapore, Italy and Canada.

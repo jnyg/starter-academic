@@ -75,4 +75,4 @@ user_groups:
 - Visitors
 ---
 
-I'm an assistant professor at the [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing, China.  Before coming to China, I studied and worked in Japan, USA, Germany, Singapore, Italy and Canada.
+I'm an assistant professor at the [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing, China.  Before coming to China, I studied and worked in Japan, USA, Germany, Singapore, Italy, Poland and Canada.

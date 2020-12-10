@@ -11,36 +11,36 @@ role: Theoretical Physicist
 # Organizations/Affiliations
 organizations:
 - name: YMSC, Tsinghua University
-  url: "http://ymsc.tsinghua.edu.cn/en"
+  url: "http://ymsc.tsinghua.edu.cn/en/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include supersymmetric field theories, string theory and integrable systems.
 
 interests:
-- Supersymmetric Field Theories
-- String Theory
-- Integrable Systems
+- Quantum field theory
+- String theory
+- Integrable systems
 
 education:
   courses:
-  - course: PhD in Physics
-    institution: Rutgers University
+  - course: PhD in physics
+    institution: Rutgers University, USA
     year: 2009
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
-#  - course: BSc in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2008
+  - course: Master's program in physics
+    institution: Chiba University, Japan
+    year: 2002–2003
+  - course: Bachelor's program in physics
+    institution: Chiba University, Japan
+    year: 1999-2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:junyagi@gmail.com".
+#- icon: envelope
+#  icon_pack: fas
+#  link: '/#contact'  # For a direct email link, use "mailto:junyagi@gmail.com".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/junyagi
@@ -75,4 +75,9 @@ user_groups:
 - Visitors
 ---
 
-I'm a theoretical physicist at the Yau Mathematical Sciences Center, Tsinghua University. 
+I'm an assistant professor at the [Yau Mathematical Sciences Center](http://ymsc.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/) in Beijing, China.  Before coming to China, I lived and worked in US, Japan, Germany, Singapore, Italy and Canada.
+
+
+
+Recently, I think a lot about connections between quantum field theory, string theory and integrable systems.
+

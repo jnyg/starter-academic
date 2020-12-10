@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Chiral Algebras of (0,2) Sigma Models: Beyond Perturbation Theory'
+title: 'Chiral algebras of $(0,2)$ sigma models: beyond perturbation theory'
 subtitle: ''
 summary: ''
 authors:
@@ -9,7 +9,7 @@ authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2008-01-01'
+date: '2008-06-17'
 lastmod: 2020-12-09T16:35:58+08:00
 featured: false
 draft: false
@@ -31,7 +31,7 @@ projects: []
 publishDate: '2020-12-09T08:35:58.002063Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Lett. Math. Phys.*'
+abstract: 'We show that the chiral algebras of $\mathcal{N} =(0,2)$ sigma models with no left-moving fermions are totally trivialized by worldsheet instantons for flag manifold target spaces. Consequently, supersymmetry is spontaneously broken in these models. Our results affirm Stolz&apos;s idea (Stolz in Math Ann 304(4):785–800, 1996) that there are no harmonic spinors on the loop spaces of flag manifolds. Moreover, they also imply that the kernels of certain twisted Dirac operators on these target spaces will be empty under a quantum deformation of their geometries.'
+publication: '*Lett. Math. Phys.* **84** (2008) 257–273'
 doi: 10.1007/s11005-008-0249-4
 ---

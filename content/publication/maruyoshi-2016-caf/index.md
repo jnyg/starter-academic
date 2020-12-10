@@ -9,7 +9,7 @@ authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2016-01-01'
+date: '2016-01-03'
 lastmod: 2020-12-09T16:35:56+08:00
 featured: false
 draft: false
@@ -31,7 +31,10 @@ projects: []
 publishDate: '2020-12-09T08:35:56.311445Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*PTEP*'
+abstract: 'The supersymmetric index of the 4D $\mathcal{N} = 1$ theory realized by a brane tiling coincides with the partition function of an integrable 2D lattice model. We argue that a class of half-BPS surface defects in brane tiling models are represented on the lattice model side by transfer matrices constructed from L-operators. For the simplest surface defects in theories with SU(2) flavor groups, we identify the relevant L-operator as that discovered by Sklyanin in the context of the eight-vertex model. We verify this identification by computing the indices of class-$\mathcal{S}$ and -$\mathcal{S}_k$ theories in the presence of the surface defects.'
+publication: '*Prog. Theor. Exp. Phys.* (2016) 113B01'
 doi: 10.1093/ptep/ptw151
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/1606.01041'
 ---

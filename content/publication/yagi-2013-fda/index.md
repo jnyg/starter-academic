@@ -8,7 +8,7 @@ authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2013-01-01'
+date: '2013-05-01'
 lastmod: 2020-12-09T16:35:57+08:00
 featured: false
 draft: false
@@ -30,7 +30,10 @@ projects: []
 publishDate: '2020-12-09T08:35:57.096333Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*JHEP*'
+abstract: 'We study the six-dimensional $(2,0)$ superconformal field theory on $S^1 \times S^2 \times M$ via compactification to five dimensions, where $M$ is a three-manifold. Twisted along $M$, the five-dimensional theory has a half of $\mathcal{N} = (2,2)$ supersymmetry on $S^2$, the other half being broken by a superpotential. We show that in the limit where $M$ is infinitely large, the twisted theory reduces to a three-dimensional topological quantum field theory which is closely related to Chern–Simons theory for the complexified gauge group.'
+publication: '*JHEP* **08** (2013) 017'
 doi: 10.1007/JHEP08(2013)017
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/1305.0291'
 ---

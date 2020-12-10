@@ -10,7 +10,7 @@ authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-02-24'
 lastmod: 2020-12-09T16:35:55+08:00
 featured: false
 draft: false
@@ -32,7 +32,10 @@ projects: []
 publishDate: '2020-12-09T08:35:55.381389Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*JHEP*'
+abstract: 'Bosonic quantum field theories with holomorphic action functionals are realized by two types of constructions involving supersymmetric quantum field theories, compactified on an interval in one type and compactified on a disk and deformed in the other. We establish the equivalence between the two types of constructions by reducing the disk to the interval and the interval to a point. As examples, we discuss constructions of zero-dimensional gauged sigma model, gauged quantum mechanics, gauged symplectic bosons in two dimensions, and Chern–Simons theory and its higher-dimensional variants.'
+publication: '*JHEP* **06** (2020) 180'
 doi: 10.1007/JHEP06(2020)180
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/2002.10488'
 ---

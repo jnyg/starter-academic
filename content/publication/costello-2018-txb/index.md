@@ -9,9 +9,9 @@ authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2018-10-01'
+date: '2018-10-03'
 lastmod: 2020-12-09T16:35:55+08:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -30,7 +30,10 @@ image:
 projects: []
 publishDate: '2020-12-09T08:35:55.845973Z'
 publication_types:
-- '2'
-abstract: ''
+- '3'
+abstract: 'A four-dimensional analog of Chern–Simons theory produces integrable lattice models from Wilson lines and surface operators. We show that this theory describes a quasi-topological sector of maximally supersymmetric Yang–Mills theory in six dimensions, topologically twisted and subjected to an Ω-deformation. By realizing the six-dimensional theory in string theory and applying dualities, we unify various phenomena in which the eight-vertex model and the XYZ spin chain, as well as variants thereof, emerge from supersymmetric gauge theories.'
 publication: ''
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/1810.01970'
 ---

@@ -1,14 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Vanishing chiral algebras and Hohn-Stolz conjecture
+title: Vanishing chiral algebras and Höhn–Stolz conjecture
 subtitle: ''
 summary: ''
 authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2012-01-01'
+date: '2010-02-01'
 lastmod: 2020-12-09T16:35:57+08:00
 featured: false
 draft: false
@@ -29,8 +29,11 @@ image:
 projects: []
 publishDate: '2020-12-09T08:35:57.548275Z'
 publication_types:
-- '2'
-abstract: ''
+- '1'
+abstract: 'Given a two-dimensional quantum field theory with $(0,2)$ supersymmetry, one can construct a chiral (or vertex) algebra. The chiral algebra of a $(0,2)$ supersymmetric sigma model is, perturbatively, the cohomology of a sheaf of chiral differential operators on a string Kähler manifold. However, it vanishes in some cases when instantons are taken into account. I will discuss the implication of this phenomenon for the Höhn–Stolz conjecture on the Witten genus.'
 publication: '*Proc. Symp. Pure Math.*'
 doi: 10.1090/pspum/085/1401
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/1002.0028'
 ---

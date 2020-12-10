@@ -8,7 +8,7 @@ authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2017-01-01'
+date: '2017-01-19'
 lastmod: 2020-12-09T16:35:56+08:00
 featured: false
 draft: false
@@ -30,7 +30,10 @@ projects: []
 publishDate: '2020-12-09T08:35:55.997546Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*JHEP*'
+abstract: 'A brane construction of an integrable lattice model is proposed. The model is composed of Belavin&apos;s R-matrix, Felder&apos;s dynamical R-matrix, the Bazhanov–Sergeev–Derkachov–Spiridonov R-operator and some intertwining operators. This construction implies that a family of surface defects act on supersymmetric indices of four-dimensional $\mathcal{N}=1$ supersymmetric field theories as transfer matrices related to elliptic quantum groups.'
+publication: '*JHEP* **06** (2017) 013'
 doi: 10.1007/JHEP06(2017)013
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/1701.05562'
 ---

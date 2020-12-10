@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: $Ømega$-deformation of B-twisted gauge theories and the 3d-3d correspondence
+title: Ω-deformation of B-twisted gauge theories and the 3d-3d correspondence
 subtitle: ''
 summary: ''
 authors:
@@ -11,7 +11,7 @@ authors:
 - Qin Zhao
 tags: []
 categories: []
-date: '2015-01-01'
+date: '2014-10-06'
 lastmod: 2020-12-09T16:35:56+08:00
 featured: false
 draft: false
@@ -33,7 +33,10 @@ projects: []
 publishDate: '2020-12-09T08:35:56.632474Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*JHEP*'
+abstract: 'We study Ω-deformation of B-twisted gauge theories in two dimensions. As an application, we construct an Ω-deformed, topologically twisted five-dimensional maximally supersymmetric Yang–Mills theory on the product of a Riemann surface $\Sigma$ and a three-manifold $M$, and show that when $\Sigma$ is a disk, this theory is equivalent to analytically continued Chern-Simons theory on $M$. Based on these results, we establish a correspondence between three-dimensional $\mathcal{N}=2$ superconformal theories and analytically continued Chern–Simons theory. Furthermore, we argue that there is a mirror symmetry between Ω-deformed two-dimensional theories.'
+publication: '*JHEP* **02** (2015) 047'
 doi: 10.1007/JHEP02(2015)047
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/1410.1538'
 ---

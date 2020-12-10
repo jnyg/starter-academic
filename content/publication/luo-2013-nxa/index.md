@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: $mathcalN = 2$ supersymmetric gauge theories and quantum integrable systems
+title: $\mathcal{N} = 2$ supersymmetric gauge theories and quantum integrable systems
 subtitle: ''
 summary: ''
 authors:
@@ -10,7 +10,7 @@ authors:
 - Junya Yagi
 tags: []
 categories: []
-date: '2014-01-01'
+date: '2013-10-02'
 lastmod: 2020-12-09T16:35:57+08:00
 featured: false
 draft: false
@@ -32,7 +32,10 @@ projects: []
 publishDate: '2020-12-09T08:35:56.948530Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*JHEP*'
+abstract: 'We study $\mathcal{N}=2$ supersymmetric gauge theories on the product of a two-sphere and a cylinder. We show that the low-energy dynamics of a BPS sector of such a theory is described by a quantum integrable system, with the Planck constant set by the inverse of the radius of the sphere. If the sphere is replaced with a hemisphere, then our system reduces to an integrable system of the type studied by Nekrasov and Shatashvili. In this case we establish a correspondence between the effective prepotential of the gauge theory and the Yang–Yang function of the integrable system.'
+publication: '*JHEP* **03** (2014) 090'
 doi: 10.1007/JHEP03(2014)090
+links:
+- name: arXiv
+  url: 'https://arxiv.org/abs/1310.0827'
 ---

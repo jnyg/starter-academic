@@ -83,7 +83,7 @@ subtitle = ""
  css_class = ""
 +++
 
-My research interests are mainly in formal aspects of quantum field theory, especially those with supersymmetry (SUSY QFTs).  Recently, I think a lot about connections between SUSY QFTs, integrable systems and string theory.
+My research interests are mainly in formal aspects of quantum field theory, especially those with supersymmetry (SUSY).  Recently, I think a lot about connections between SUSY QFTs, integrable systems and string theory.
 
 With Kevin Costello, I [presented](/publication/costello-2018-txb/) a string theory perspective that unites various  phenomena in which quantum integrable systems emerge from SUSY QFTs.
 

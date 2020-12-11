@@ -38,5 +38,5 @@ links:
   url: 'https://arxiv.org/abs/1810.01970'
 ---
 
-In this work with Kevin Costello, we provide a string theory explanation for various known phenomena in which the same family of quantum integrable systems, namely rational/trigonometric/elliptic 8-vertex models (or equivalently, XXX/XXZ/XYZ spin chains) appear from supersymmetric field theory setups in different spacetime dimensions.
+In this work with Kevin Costello, we provide a string theory explanation for various previously known phenomena in which the same family of quantum integrable systems, namely rational/trigonometric/elliptic 8-vertex models (or equivalently, XXX/XXZ/XYZ spin chains), appear from quantum field theory setups in different spacetime dimensions.
 

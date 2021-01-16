@@ -33,7 +33,7 @@ publishDate: '2020-12-09T08:35:54.855679Z'
 publication_types:
 - '3'
 abstract: 'We establish a correspondence between a class of Wilson–&apos;t Hooft lines in four-dimensional $\mathcal{N}=2$ supersymmetric gauge theories described by circular quivers and transfer matrices constructed from dynamical L-operators for trigonometric quantum integrable systems. We compute the vacuum expectation values of the Wilson–&apos;t Hooft lines in a twisted product space $S^1 \times_\epsilon \mathbb{R}^2 \times \mathbb{R}$ by supersymmetric localization and show that they are equal to the Wigner transforms of the transfer matrices. A variant of the AGT correspondence implies an identification of the transfer matrices with Verlinde operators in Toda theory, which we also verify. We explain how these field theory setups are related to four-dimensional Chern–Simons theory via embedding into string theory and dualities.'
-publication: 'JHEP *01* (2021) 072'
+publication: 'JHEP **01** (2021) 072'
 doi: 10.1007/JHEP01(2021)072
 links:
 - name: arXiv

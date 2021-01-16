@@ -87,6 +87,6 @@ My research interests are mainly in formal aspects of quantum field theory (QFT)
 
 With Kevin Costello, I [presented](/publication/costello-2018-txb/) a string theory perspective uniting various  phenomena in which quantum integrable systems emerge from SUSY QFTs.
 
-In this work a crucial role is played by B-type Ω-deformation* of SUSY QFTs. I originally [introduced](/publication/yagi-2014-toa/) it in order to understand quantization of integrable systems that describe the low-energy physics of 4d $\mathcal{N} = 2$ SUSY QFTs.
+In this work a crucial role is played by *B-type Ω-deformation* of SUSY QFTs. I originally [introduced](/publication/yagi-2014-toa/) it in order to understand quantization of integrable systems that describe the low-energy physics of 4d $\mathcal{N} = 2$ SUSY QFTs.
 
 B-type Ω-deformation has since found more applications. With Jihwan Oh, I [applied](/publication/oh-2019-bgz/) it to 4d $\mathcal{N}=2$ superconformal QFTs to reproduce Beem et al.'s vertex operator algebras.  With Nafiz Ishtiaque, I [used](/publication/ishtiaque-2020-ufn/) it to rediscover Gukov–Witten's brane quantization and  Witten's construction of Chern–Simons theory within 4d $\mathcal{N}=4$ super Yang–Mills theory, as well as to obtain similar constructions for higher-dimensional Chern–Simons theories.
